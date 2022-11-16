@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задача 2 находится на ветке Task2
+// Задача 4 находится на ветке Task4 
+// Задача 6 находится на ветке Task6
+// Задача 8 находится на ветке Task8
